@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Courage to Develop",
+    title: "Male Journeys",
     author: "Anthony Arendt",
-    description: "Anthony's Website"
+    description: "Website for Anthony, Aaron and Jeff's Courage and Renewal offerings"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
