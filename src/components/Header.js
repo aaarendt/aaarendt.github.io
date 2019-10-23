@@ -5,12 +5,9 @@ class Header extends React.Component {
         return (
             <section id="header">
                 <div className="inner">
-                    <span className="icon major fa-cloud"></span>
-                    <h1>Website under construction.</h1>
-                    <p>Accumsan feugiat mi commodo erat lorem ipsum, sed magna<br />
-                    lobortis feugiat sapien sed etiam volutpat accumsan.</p>
+                    <h1>Male Journeys</h1>
                     <ul className="actions">
-                        <li><a href="#one" className="button scrolly">Discover</a></li>
+                        <li><a href="#one" className="button scrolly">Welcome</a></li>
                     </ul>
                 </div>
             </section>
