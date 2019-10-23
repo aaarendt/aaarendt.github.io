@@ -22,7 +22,7 @@ class Homepage extends React.Component {
                             <header className="major">
                                 <h2>A Courage and Renewal Experience</h2>
                             </header>
-                            <p>"New Leadership is needed for new times, but it will not come from finding more wily ways to manipulate the external world. It will come as we who serve and teach and lead find the courage to take an inner journey toward both our shados and our light." Parker J. Palmer</p>
+                            <p>"New Leadership is needed for new times, but it will not come from finding more wily ways to manipulate the external world. It will come as we who serve and teach and lead find the courage to take an inner journey toward both our shadows and our light." Parker J. Palmer</p>
                         </div>
                         <div className="col-6">
                             <span className="image fit"><img src={pic01} alt="" /></span>
@@ -39,9 +39,9 @@ class Homepage extends React.Component {
                         </div>
                         <div className="col-6">
                             <header className="major">
-                                <h2>About US</h2>
+                                <h2>About Us</h2>
                             </header>
-                            <p>We are facilitators trained in the tradition of Parker J. Palmer and the Center for Courage and Renewal \u00A9.</p>
+                            <p>We are facilitators trained in the tradition of Parker J. Palmer and the Center for Courage and Renewal(c).</p>
                         </div>
                     </div>
                 </section>
@@ -52,7 +52,7 @@ class Homepage extends React.Component {
                             <header className="major">
                                 <h2>Current Offerings</h2>
                             </header>
-                            <p>In large and small groups, in communal and solitary spaces, in retreat centers and wilderness, we explore the journey of returning to ourselves. We use the personal stories of men, of poetry and of narrative wisdom traditions.</p>
+                            <p>In large and small groups we explore the journey of returning to ourselves. We use the personal stories of men, of poetry and of narrative wisdom traditions. We gather in online forums, retreat centers and wilderness settings.</p>
                         </div>
 
                         <div className="col-4">
