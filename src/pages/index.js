@@ -10,7 +10,7 @@ import pic04 from '../assets/images/pic04.jpg'
 
 class Homepage extends React.Component {
     render() {
-        const siteTitle = "Courage to Develop";
+        const siteTitle = "Male Journeys";
 
         return (
             <Layout>
@@ -52,29 +52,28 @@ class Homepage extends React.Component {
                             <header className="major">
                                 <h2>Current Offerings</h2>
                             </header>
-                            <p>In large and small groups we explore the journey of returning to ourselves. We use the personal stories of men, of poetry and of narrative wisdom traditions. We gather in online forums, retreat centers and wilderness settings.</p>
                         </div>
 
                         <div className="col-4">
                             <span className="image fit"><img src={pic02} alt="" /></span>
                             <h3>Men's Retreats</h3>
-                            <p>text</p>
+                            <p>Multi-day retreats providing opportunties for reflection and finding our way in community.</p>
                             <ul className="actions">
-                                <li><a href="#" className="button">More</a></li>
+                                <li><a href="retreats" className="button">More</a></li>
                             </ul>
                         </div>
                         <div className="col-4">
                             <span className="image fit"><img src={pic03} alt="" /></span>
                             <h3>Wilderness Trips</h3>
-                            <p>text</p>
+                            <p>Guided outdoor backpacking trips where we deepen our connection to our selves, each other and the natural world.</p>
                             <ul className="actions">
-                                <li><a href="#" className="button">More</a></li>
+                                <li><a href="wilderness" className="button">More</a></li>
                             </ul>
                         </div>
                         <div className="col-4">
                             <span className="image fit"><img src={pic04} alt="" /></span>
                             <h3>Online Communities</h3>
-                            <p>text</p>
+                            <p>Facilitated virtual conversations where we listen to each other's stories and explore specific topics.</p>
                             <ul className="actions">
                                 <li><a href="#" className="button">More</a></li>
                             </ul>
