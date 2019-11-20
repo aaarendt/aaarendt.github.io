@@ -12,14 +12,30 @@ export default () => (
     </header>
     <h3> Breitenbush Hot Springs, Sept. 4-7, 2020 </h3>
     <h4> A Courage and Renewal<sup>&copy;</sup> Retreat </h4>
-    <p>During our retreats we offer a hospitable space for men of all ages to show up authentically and live wholeheartedly. We co-create a trustworthy circle in which we can listen to each other with courage and compassion as we find our way together in community. In group and solitary settings we will invite you to rest, hike, connect with nature and contemplate the poetry, art and stories of wisdom traditions. We welcome anyone identifying as male, regardless of birth assignment. </p>
+    <p>During this retreat we offer a hospitable space for men of all ages to show up authentically and live wholeheartedly. We co-create a trustworthy circle in which we can listen to each other with courage and compassion as we find our way together in community. In group and solitary settings we will invite you to rest, hike, connect with nature and contemplate the poetry, art and stories of wisdom traditions. We welcome anyone identifying as male, regardless of birth assignment. </p>
 </div>
 <div className="col-6">
-    <span className="image fit"><img src={pic01} alt="" /></span>
-
+    <br></br>
+    <br></br>
+                            <span className="image fit"><img src={pic01} alt="" /></span>
+                        </div>
 </div>
 
-</div>
+<div>
+    <center>
+        <p><h3>Answers to some common questions</h3></p> 
+    </center>
+        <p>
+        <ul>
+            <li>Is this event a workshop?</li>
+            <li>Do you welcome members of the gay community?</li>
+            <li>Do I need to do anything to prepare for this retreat?</li>
+            <li>Will I be asked to do anything I'm not comfortable with doing?</li>
+            <li>What are your policies with respect to confidentiality?</li>
+        </ul>
+        </p>
+        
+        </div>
 </Layout>
 
 )
