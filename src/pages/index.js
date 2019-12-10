@@ -3,7 +3,7 @@ import Helmet from "react-helmet";
 
 import Layout from '../components/layout';
 
-import pic01 from '../assets/images/pic01.jpg'
+import pic01 from '../assets/images/AJA.jpg'
 import pic02 from '../assets/images/altar1.jpg'
 import pic03 from '../assets/images/sawtooths1.jpg'
 import pic04 from '../assets/images/pic04.jpg'
@@ -25,7 +25,7 @@ class Homepage extends React.Component {
                             <p>"New Leadership is needed for new times, but it will not come from finding more wily ways to manipulate the external world. It will come as we who serve and teach and lead find the courage to take an inner journey toward both our shadows and our light." Parker J. Palmer</p>
                         </div>
                         <div className="col-6">
-                            <span className="image fit"><img src={pic01} alt="" /></span>
+                            <span className="image fit"><img src={pic04} alt="" /></span>
                         </div>
                     </div>
                 </section>
@@ -34,14 +34,14 @@ class Homepage extends React.Component {
                     <div className="grid-wrapper">
                         <div className="col-6">
                             <ul className="major-icons">
-                                <li><span className="image fit"><img src={pic02} alt="" /></span></li>
+                                <li><span className="image fit"><img src={pic01} alt="" /></span></li>
                             </ul>
                         </div>
                         <div className="col-6">
                             <header className="major">
                                 <h2>About Us</h2>
                             </header>
-                            <p>We are facilitators trained in the tradition of Parker J. Palmer and the Center for Courage and Renewal(c).</p>
+                            <p>We are facilitators trained in the tradition of Parker J. Palmer and the Center for Courage and Renewal<sup>&copy;</sup></p>
                         </div>
                     </div>
                 </section>
