@@ -24,18 +24,8 @@ export default () => (
 <div>
     <center>
         <p><h3>Answers to some common questions</h3></p> 
-    </center>
-        <p>
-        <ul>
-            <li>Is this event a workshop?</li>
-            <li>Do you welcome members of the gay community?</li>
-            <li>Do I need to do anything to prepare for this retreat?</li>
-            <li>Will I be asked to do anything I'm not comfortable with doing?</li>
-            <li>What are your policies with respect to confidentiality?</li>
-        </ul>
-        </p>
-        
-        </div>
+    </center>     
+</div>
 </Layout>
 
 )
