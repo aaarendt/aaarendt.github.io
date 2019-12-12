@@ -1,5 +1,4 @@
 import React from "react";
-import Footer from '../components/Footer';
 import Layout from '../components/layout-pages';
 import pic01 from '../assets/images/Breitenbush-tub.jpg'
 
@@ -29,10 +28,10 @@ export default () => (
 <section id="two" className="main style2">
 <div>
     <center>
-        <p><h3>Considerations and Information</h3></p> 
+        <p><h2>Considerations and Information</h2></p> 
         <p>We welcome anyone identifying as male, regardless of birth assignment.</p>
         <p>Our retreats are framed within the <a href="http://www.couragerenewal.org/approach/#practices">Circle of Trust Approach</a> where people can find hospitable spaces to nuture personal growth.</p>
-        <p>The Circle of Trust is bounded by a series of <a href="http://www.couragerenewal.org/PDFs/Touchstones-Updated2019.pdf">Touchstones</a>.</p>
+        <p>The Circle of Trust is bounded by a series of <a href="http://www.couragerenewal.org/touchstones/">Touchstones</a>.</p>
         <p>The hallmark practice of every retreat is a <a href="http://www.couragerenewal.org/clearnesscommittee/">Clearness Committee</a>.</p>
         <p>We commit to co-creating an inclusive environment that honors the diversity and uniqueness of every participant.</p>
         <p>During our time outdoors, we provide multiple options so that everyone to be included in our activities.</p>
