@@ -1,5 +1,4 @@
 import React from "react";
-import Footer from '../components/Footer';
 import Layout from '../components/layout-pages';
 import pic01 from '../assets/images/sawtooths1.jpg'
 
