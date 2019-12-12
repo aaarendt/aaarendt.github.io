@@ -6,7 +6,8 @@ import Layout from '../components/layout';
 import pic01 from '../assets/images/AJA.jpg'
 import pic02 from '../assets/images/altar1.jpg'
 import pic03 from '../assets/images/sawtooths1.jpg'
-import pic04 from '../assets/images/pic04.jpg'
+import pic04 from '../assets/images/circle.png'
+import pic05 from '../assets/images/online-community.png'
 
 class Homepage extends React.Component {
     render() {
@@ -34,14 +35,19 @@ class Homepage extends React.Component {
                     <div className="grid-wrapper">
                         <div className="col-6">
                             <ul className="major-icons">
-                                <li><span className="image fit"><img src={pic01} alt="" /></span></li>
+                                <li><span className="image fit"><img src={pic01} alt="Picture of Anthony, Jeff and Aaron" /></span></li>
                             </ul>
                         </div>
                         <div className="col-6">
                             <header className="major">
                                 <h2>About Us</h2>
                             </header>
-                            <p>We are facilitators trained in the tradition of Parker J. Palmer and the Center for Courage and Renewal<sup>&copy;</sup></p>
+                            <p>Jeff Creswell is a <a href="http://www.couragerenewal.org/" target="_blank">Center for Courage and Renewal<sup>&copy;</sup></a> facilitator mentored by activist and writer Parker Palmer. He is also an educational consultant.
+                            </p>
+                            <p>Anthony Arendt is an earth scientist at the University of Washington in Seattle. He is enrolled in the Courage and Renewal Facilitator preparation program.
+                            </p>
+                            <p>Aaron Bishop is an active outdoorsman and co-facilitator of several Courage and Renewal offerings. He works for Walmart as a Health and Wellness Director.
+                            </p>
                         </div>
                     </div>
                 </section>
@@ -71,11 +77,11 @@ class Homepage extends React.Component {
                             </ul>
                         </div>
                         <div className="col-4">
-                            <span className="image fit"><img src={pic04} alt="" /></span>
+                            <span className="image fit"><img src={pic05} alt="" /></span>
                             <h3>Online Communities</h3>
                             <p>Facilitated virtual conversations where we listen to each other's stories and explore specific topics.</p>
                             <ul className="actions">
-                                <li><a href="#" className="button">More</a></li>
+                                <li><a href="online" className="button">More</a></li>
                             </ul>
                         </div>
 
@@ -87,10 +93,9 @@ class Homepage extends React.Component {
                         <header className="major">
                             <h2>Contact Us</h2>
                         </header>
-                        <p>For more information.</p>
+                        <p>For more information, contact us via e-mail. We are glad to provide additional details about our offerings.</p>
                         <ul className="actions uniform">
-                            <li><a href="#" className="button special">Sign Up</a></li>
-                            <li><a href="#" className="button">Learn More</a></li>
+                            <li><a href="mailto:malejourneys@gmail.com" className="button special">E-mail</a></li>
                         </ul>
                     </div>
                 </section>
