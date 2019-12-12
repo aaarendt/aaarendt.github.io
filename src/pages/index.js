@@ -35,14 +35,14 @@ class Homepage extends React.Component {
                     <div className="grid-wrapper">
                         <div className="col-6">
                             <ul className="major-icons">
-                                <li><span className="image fit"><img src={pic01} alt="Picture of Anthony, Jeff and Aaron" /></span></li>
+                                <li><span className="image fit"><img src={pic01} alt="Anthony, Jeff and Aaron" /></span></li>
                             </ul>
                         </div>
                         <div className="col-6">
                             <header className="major">
                                 <h2>About Us</h2>
                             </header>
-                            <p>Jeff Creswell is a <a href="http://www.couragerenewal.org/" target="_blank">Center for Courage and Renewal<sup>&copy;</sup></a> facilitator mentored by activist and writer Parker Palmer. He is also an educational consultant.
+                            <p>Jeff Creswell is a <a href="http://www.couragerenewal.org/">Center for Courage and Renewal<sup>&copy;</sup></a> facilitator mentored by activist and writer Parker Palmer. He is also an educational consultant.
                             </p>
                             <p>Anthony Arendt is an earth scientist at the University of Washington in Seattle. He is enrolled in the Courage and Renewal Facilitator preparation program.
                             </p>
