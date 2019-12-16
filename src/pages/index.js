@@ -26,7 +26,7 @@ class Homepage extends React.Component {
                             <p>"New Leadership is needed for new times, but it will not come from finding more wily ways to manipulate the external world. It will come as we who serve and teach and lead find the courage to take an inner journey toward both our shadows and our light." Parker J. Palmer</p>
                         </div>
                         <div className="col-6">
-                            <span className="image fit"><img src={pic04} alt="" /></span>
+                            <span className="image fit"><img src={pic03} alt="" /></span>
                         </div>
                     </div>
                 </section>
