@@ -36,7 +36,7 @@ export default () => (
         <p>We commit to co-creating an inclusive environment that honors the diversity and uniqueness of every participant.</p>
         <p>During our time outdoors, we provide multiple options so that everyone to be included in our activities.</p>
         <p>All of our activities are invitational.</p>
-
+        <p><h3>Questions? Contact us: <a href="mailto:malejourneys@gmail.com">malejourneys@gmail.com</a></h3></p>
     </center>     
 
     <center>
