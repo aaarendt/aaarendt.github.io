@@ -6,7 +6,7 @@ import Layout from '../components/layout';
 import pic01 from '../assets/images/AJA.jpg'
 import pic02 from '../assets/images/altar1.jpg'
 import pic03 from '../assets/images/sawtooths1.jpg'
-import pic04 from '../assets/images/circle.png'
+import pic04 from '../assets/images/viewpoint.jpg'
 import pic05 from '../assets/images/online-community.png'
 
 class Homepage extends React.Component {
@@ -23,10 +23,12 @@ class Homepage extends React.Component {
                             <header className="major">
                                 <h2></h2>
                             </header>
-                            <p>"New Leadership is needed for new times, but it will not come from finding more wily ways to manipulate the external world. It will come as we who serve and teach and lead find the courage to take an inner journey toward both our shadows and our light." Parker J. Palmer</p>
+                            <p>The most common spiritual malady among the men I know is not the kind of ego inflation that "disappears" everything else in their lives. It’s what was once called “melancholy” that, when it grows deep enough, can cause one’s sense of self to disappear...</p>
+                            <p>This could change. I think, if more men came together...to talk vulnerably about their frustrations, fears, and hopes.</p> 
+                            <p><em>Parker Palmer, On the Brink of Everything</em></p>
                         </div>
                         <div className="col-6">
-                            <span className="image fit"><img src={pic03} alt="" /></span>
+                            <span className="image fit"><img src={pic04} alt="" /></span>
                         </div>
                     </div>
                 </section>
