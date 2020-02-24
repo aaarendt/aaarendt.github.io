@@ -3,7 +3,7 @@ import Layout from '../components/layout-pages';
 import pic01 from '../assets/images/Breitenbush-tub.jpg'
 
 export default () => (
-    <Layout>
+<Layout>
 <section id="one" className="main style1">
 <div className="grid-wrapper">
     <div className="col-6">
@@ -27,8 +27,13 @@ export default () => (
 
 <section id="two" className="main style2">
 <div>
+    <center><h2>What can I expect at these retreats?</h2>
+    <p>Jeff has written this <a href={'/Mens-Retreat-Chapter.pdf'} target="_blank">reflection on one of our early offerings</a>, describing in detail some of our practices and shared experiences.</p>
+
+        
+    </center>
     <center>
-        <p><h2>Considerations and Information</h2></p> 
+        <p><h2>Other Considerations and Information</h2></p> 
         <p>We welcome anyone identifying as male, regardless of birth assignment.</p>
         <p>Our retreats are framed within the <a href="http://www.couragerenewal.org/approach/#practices">Circle of Trust Approach</a> where people can find hospitable spaces to nuture personal growth.</p>
         <p>The Circle of Trust is bounded by a series of <a href="http://www.couragerenewal.org/touchstones/">Touchstones</a>.</p>
@@ -49,6 +54,4 @@ export default () => (
 </section>
 
 </Layout>
-
 )
-
