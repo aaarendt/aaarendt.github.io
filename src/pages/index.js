@@ -23,8 +23,8 @@ class Homepage extends React.Component {
                             <header className="major">
                                 <h2></h2>
                             </header>
-                            <p>The most common spiritual malady among the men I know is not the kind of ego inflation that "disappears" everything else in their lives. It’s what was once called “melancholy” that, when it grows deep enough, can cause one’s sense of self to disappear...</p>
-                            <p>This could change. I think, if more men came together...to talk vulnerably about their frustrations, fears, and hopes.</p> 
+                            <p>"The most common spiritual malady among the men I know is not the kind of ego inflation that 'disappears' everything else in their lives. It’s what was once called 'melancholy' that, when it grows deep enough, can cause one’s sense of self to disappear..."</p>
+                            <p>"This could change. I think, if more men came together...to talk vulnerably about their frustrations, fears, and hopes."</p> 
                             <p><em>Parker Palmer, On the Brink of Everything</em></p>
                         </div>
                         <div className="col-6">
