@@ -23,8 +23,7 @@ class Homepage extends React.Component {
                             <header className="major">
                                 <h2></h2>
                             </header>
-                            <p>"The most common spiritual malady among the men I know is not the kind of ego inflation that 'disappears' everything else in their lives. It’s what was once called 'melancholy' that, when it grows deep enough, can cause one’s sense of self to disappear..."</p>
-                            <p>"This could change. I think, if more men came together...to talk vulnerably about their frustrations, fears, and hopes."</p> 
+                            <p>"Self care is never a selfish act - it is simply good stewardship of the only gift I have, the gift I was put on earth to offer others. Anytime we can listen to true self, and give it the care it requires, we do so not only for ourselves, but for the many others whose lives we touch."</p>
                             <p><em>Parker Palmer, On the Brink of Everything</em></p>
                         </div>
                         <div className="col-6">
