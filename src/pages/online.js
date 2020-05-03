@@ -5,32 +5,45 @@ import pic01 from '../assets/images/pic04.jpg'
 export default () => (
     <Layout>
 <section id="one" className="main style1">
-<div className="grid-wrapper">
-    <div className="col-6">
-        <header className="major">
+
+    <div>
+        <center>
+            <header className="major">
             <h2>Online Communities</h2>
-        </header>
-        <p>We are currently building content for an online community forum. Check back for more information soon.</p>
-    </div>
-    <div className="col-6">
-        <br></br>
-        <br></br>
-        <span className="image fit"><img src={pic01} alt="" /></span>
-    </div>
+            </header>
+            <p>We are hosting a series of one hour, bi-weekly virtual gatherings with men who have joined any of our previous in-person retreats.</p>
+            <p><strong>Our next Zoom call:</strong>
+                <ul> 
+                    <li>Tuesday May 5, 2020 from 7:00 - 8:00 PM Pacific.</li>
+                    <li>Facilitated by Jeff Creswell, Aaron Bishop, Dan Hines, Anthony Arendt</li>
+                </ul>
+            </p>    
+        </center>
 </div>
 
-<center>
-    <ul className="actions uniform">
-        <li><a href="../" className="button special">Back</a></li>
-    </ul>
-</center>
+
 </section>
 
 <section id="two" className="main style2">
 <div>
+    <center><h2>What can I expect on these calls?</h2>
+    <p>We will begin each call with a reflection on the <a href={'/touchstones.pdf'} target="_blank">touchstones</a>.</p> 
+    <p>We will invite everyone to introduce themselves, share a poem, and invite people into deeper discussion in small groups using Zoom breakout rooms.</p>
+
+        
+    </center>
+
     <center>
-        <p><h3>Information</h3></p> 
+        <p><h2>Collection of Poems from our Previous Calls</h2></p> 
+        <p>Tuesday 21 April 2020: "Shedding Skin" (<a href={'/mens-zoom-call-poems-21Apr2020.pdf'} target="_blank">poems)</a>.</p>
+        <p>Tuesday 23 March 2020: "Old Maps no Longer Work" (<a href={'/mens-zoom-call-poems-23Mar2020.pdf'} target="_blank">poems)</a>.</p> 
     </center>     
+
+    <center>
+    <ul className="actions uniform">
+        <li><a href="../" className="button special">Back</a></li>
+    </ul>
+</center>
 
 </div>
 </section>
