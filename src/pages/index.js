@@ -24,7 +24,7 @@ class Homepage extends React.Component {
                                 <h2></h2>
                             </header>
                             <p>"Self care is never a selfish act - it is simply good stewardship of the only gift I have, the gift I was put on earth to offer others. Anytime we can listen to true self, and give it the care it requires, we do so not only for ourselves, but for the many others whose lives we touch."</p>
-                            <p><em>Parker Palmer, On the Brink of Everything</em></p>
+                            <p><em>Parker Palmer</em></p>
                         </div>
                         <div className="col-6">
                             <span className="image fit"><img src={pic04} alt="" /></span>
