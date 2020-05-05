@@ -16,7 +16,7 @@ export default () => (
                 <ul> 
                     <li>Tuesday May 5, 2020 from 7:00 - 8:00 PM Pacific.</li>
                     <li>Facilitated by Jeff Creswell and Anthony Arendt</li>
-                    <li>Poems: "Shoulders" (<a href={'/mens-zoom-call-poems-05May2020.pdf'} target="_blank">poems)</a>.</li>
+                    <li>"Shoulders" (<a href={'/mens-zoom-call-poems-05May2020.pdf'} target="_blank">poems)</a>.</li>
                 </ul>
             </p>    
         </center>
