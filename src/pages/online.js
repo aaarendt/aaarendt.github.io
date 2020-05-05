@@ -15,7 +15,8 @@ export default () => (
             <p><strong>Our next Zoom call:</strong>
                 <ul> 
                     <li>Tuesday May 5, 2020 from 7:00 - 8:00 PM Pacific.</li>
-                    <li>Facilitated by Jeff Creswell, Aaron Bishop, Dan Hines, Anthony Arendt</li>
+                    <li>Facilitated by Jeff Creswell and Anthony Arendt</li>
+                    <li>Poems: "Shoulders" (<a href={'/mens-zoom-call-poems-05May2020.pdf'} target="_blank">poems)</a>.</li>
                 </ul>
             </p>    
         </center>
@@ -28,7 +29,7 @@ export default () => (
 <div>
     <center><h2>What can I expect on these calls?</h2>
     <p>We will begin each call with a reflection on the <a href={'/touchstones.pdf'} target="_blank">touchstones</a>.</p> 
-    <p>We will invite everyone to introduce themselves, share a poem, and invite people into deeper discussion in small groups using Zoom breakout rooms.</p>
+    <p>We will invite everyone to introduce themselves, share a poem, and converse in small groups using Zoom breakout rooms.</p>
 
         
     </center>
