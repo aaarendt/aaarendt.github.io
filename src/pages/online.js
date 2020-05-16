@@ -35,7 +35,7 @@ export default () => (
 
     <center>
         <p><h2>Collection of Poems from our Previous Calls</h2></p> 
-        <p>Tuesday 21 April 2020: "Shoulders" (<a href={'/mens-zoom-call-poems-05May2020.pdf'} target="_blank">poems)</a>.</p>
+        <p>Tuesday 5 May 2020: "Shoulders" (<a href={'/mens-zoom-call-poems-05May2020.pdf'} target="_blank">poems)</a>.</p>
         <p>Tuesday 21 April 2020: "Shedding Skin" (<a href={'/mens-zoom-call-poems-21Apr2020.pdf'} target="_blank">poems)</a>.</p>
         <p>Tuesday 23 March 2020: "Old Maps no Longer Work" (<a href={'/mens-zoom-call-poems-23Mar2020.pdf'} target="_blank">poems)</a>.</p> 
     </center>     
