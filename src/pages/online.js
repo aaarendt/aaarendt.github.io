@@ -18,9 +18,7 @@ export default () => (
                     <li>Facilitated by Jeff Creswell and Aaron Bishop</li>
                 </ul>
             </p>   
-          {/* 
-          <p>Here are the <a href={'/mens-zoom-call-poems-19May2020.pdf'} target="_blank">poems for this week</a>.</p>
-          */}
+            <p>Here are the <a href={'/mens-zoom-call-poems-16Jun2020.pdf'} target="_blank">poems for this week</a>.</p>
         </center>
 </div>
 
