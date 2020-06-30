@@ -15,9 +15,10 @@ export default () => (
             <p><strong>Our next Zoom call:</strong>
                 <ul> 
                     <li>Tuesday June 30, 2020 from 7:00 - 8:00 PM Pacific.</li>
-                    <li>Facilitated by Jeff Creswell, Aaron Bishop and Anthony Arendt</li>
+                    <li>Facilitated by Jeff Creswell and Anthony Arendt</li>
                 </ul>
             </p>   
+            <p>Here are the <a href={'/mens-zoom-call-poems-30Jun2020.pdf'} target="_blank">poems for this week</a>.</p>
               </center>
 </div>
 
