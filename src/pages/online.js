@@ -14,11 +14,10 @@ export default () => (
             <p>We are hosting a series of one hour, bi-weekly virtual gatherings with men who have joined any of our previous in-person retreats.</p>
             <p><strong>Our next Zoom call:</strong>
                 <ul> 
-                    <li>Tuesday June 30, 2020 from 7:00 - 8:00 PM Pacific.</li>
+                    <li>Tuesday July 14, 2020 from 7:00 - 8:00 PM Pacific.</li>
                     <li>Facilitated by Jeff Creswell and Anthony Arendt</li>
                 </ul>
             </p>   
-            <p>Here are the <a href={'/mens-zoom-call-poems-30Jun2020.pdf'} target="_blank">poems for this week</a>.</p>
               </center>
 </div>
 
@@ -30,12 +29,11 @@ export default () => (
     <center><h2>What can I expect on these calls?</h2>
     <p>We will begin each call with a reflection on the <a href={'/touchstones.pdf'} target="_blank">touchstones</a>.</p> 
     <p>We will invite everyone to introduce themselves, share a poem, and converse in small groups using Zoom breakout rooms.</p>
-
-        
     </center>
 
     <center>
         <p><h2>Collection of Poems from our Previous Calls</h2></p> 
+        <p>Tuesday 30 June 2020: "Thresholds" (<a href={'/mens-zoom-call-poems-30Jun2020.pdf'} target="_blank">poems)</a>.</p>
         <p>Tuesday 16 June 2020: "Hurricane" (<a href={'/mens-zoom-call-poems-16Jun2020.pdf'} target="_blank">poems)</a>.</p>
         <p>Tuesday 2 June 2020: "Mercy" (<a href={'/mens-zoom-call-poems-02Jun2020.pdf'} target="_blank">poems)</a>.</p>
         <p>Tuesday 19 May 2020: "Security" (<a href={'/mens-zoom-call-poems-19May2020.pdf'} target="_blank">poems)</a>.</p>
