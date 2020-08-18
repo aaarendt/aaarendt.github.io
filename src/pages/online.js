@@ -14,11 +14,11 @@ export default () => (
             <p>We are hosting a series of one hour, bi-weekly virtual gatherings with men who have joined any of our previous in-person retreats.</p>
             <p><strong>Our next Zoom call:</strong>
                 <ul> 
-                    <li>Tuesday August 4, 2020 from 7:00 - 8:00 PM Pacific.</li>
-                    <li>Facilitated by Jeff Creswell and Anthony Arendt</li>
+                    <li>Tuesday August 18, 2020 from 7:00 - 8:00 PM Pacific.</li>
+                    <li>Facilitated by Jeff Creswell, Aaron Bishop and Anthony Arendt</li>
                 </ul>
             </p>   
-            <p>Here are the <a href={'/mens-zoom-call-poems-04Aug2020.pdf'} target="_blank">poems for this week</a>.</p>
+            <p>Here are the <a href={'/mens-zoom-call-poems-18Aug2020.pdf'} target="_blank">poems for this week</a>.</p>
               </center>
 </div>
 
@@ -34,6 +34,7 @@ export default () => (
 
     <center>
         <p><h2>Collection of Poems from our Previous Calls</h2></p> 
+        <p>Tuesday 4 August 2020: "The Rabbit Hole" (<a href={'/mens-zoom-call-poems-04Aug2020.pdf'} target="_blank">poems)</a>.</p>
         <p>Tuesday 14 July 2020: "The Leap" (<a href={'/mens-zoom-call-poems-14Jul2020.pdf'} target="_blank">poems)</a>.</p>
         <p>Tuesday 30 June 2020: "Thresholds" (<a href={'/mens-zoom-call-poems-30Jun2020.pdf'} target="_blank">poems)</a>.</p>
         <p>Tuesday 16 June 2020: "Hurricane" (<a href={'/mens-zoom-call-poems-16Jun2020.pdf'} target="_blank">poems)</a>.</p>
