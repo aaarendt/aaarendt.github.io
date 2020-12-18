@@ -10,7 +10,7 @@ export default () => (
         <header className="major">
             <h2>Wilderness Hike</h2>
         </header>
-        <p>Planning for a summer 2020 wilderness hike is underway. Check back for more information soon. </p>
+        <p>We are waiting until it is safe to return to group activites before scheduling additional wilderness.</p>
     </div>
     <div className="col-6">
         <br></br>

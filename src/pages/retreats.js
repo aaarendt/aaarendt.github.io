@@ -10,9 +10,9 @@ export default () => (
         <header className="major">
             <h2>Retreat Offerings</h2>
         </header>
-        <h3> <a href="https://breitenbush.com">Breitenbush Hot Springs</a>, Sept. 4-7, 2020 </h3>
-        <h4> A Courage and Renewal<sup>&copy;</sup> Retreat </h4>
-        <p>During this retreat we offer a hospitable space for men of all ages to show up authentically and live wholeheartedly. We co-create a trustworthy circle in which we can listen to each other with courage and compassion as we find our way together in community. In group and solitary settings we will invite you to rest, hike, connect with nature and contemplate the poetry, art and stories of wisdom traditions.  </p>
+        <h3> Male Journeys: Supporting our Sprits in these Challenging Times
+            </h3>
+        We will be offering a series of four online retreats.
     </div>
     <div className="col-6">
         <br></br>
@@ -21,7 +21,7 @@ export default () => (
     </div>
 </div>
 <center>
-<h3> To Register, contact Breitenbush Hot Springs: 503-854-3320. Cost: $325 ($275 if registered by 8/10).</h3>
+<h3> To Register:</h3>
 </center>
 </section>
 
