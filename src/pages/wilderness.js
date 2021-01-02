@@ -10,7 +10,7 @@ export default () => (
         <header className="major">
             <h2>Wilderness Hike</h2>
         </header>
-        <p>We are waiting until it is safe to return to group activites before scheduling additional wilderness.</p>
+        <p>We are waiting until it is safe to return to group activites before scheduling additional wilderness trips.</p>
     </div>
     <div className="col-6">
         <br></br>

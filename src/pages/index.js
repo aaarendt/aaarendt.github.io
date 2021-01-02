@@ -64,7 +64,7 @@ class Homepage extends React.Component {
                         <div className="col-4">
                             <span className="image fit"><img src={pic02} alt="" /></span>
                             <h3>Men's Retreats</h3>
-                            <p>Multi-day retreats providing opportunties for reflection and finding our way in community.</p>
+                            <p>Retreats (temporarily virtual) providing opportunties for reflection and finding our way in community.</p>
                             <ul className="actions">
                                 <li><a href="retreats" className="button">More</a></li>
                             </ul>
@@ -77,15 +77,16 @@ class Homepage extends React.Component {
                                 <li><a href="wilderness" className="button">More</a></li>
                             </ul>
                         </div>
+                      
                         <div className="col-4">
                             <span className="image fit"><img src={pic05} alt="" /></span>
                             <h3>Online Communities</h3>
-                            <p>Facilitated virtual conversations where we listen to each other's stories and explore specific topics.</p>
+                            <p>Short virtual conversations for men who have attended our previous retreats to stay connected.</p> 
                             <ul className="actions">
                                 <li><a href="online" className="button">More</a></li>
                             </ul>
                         </div>
-
+                      
                     </div>
                 </section>
 
