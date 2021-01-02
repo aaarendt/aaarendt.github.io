@@ -29,9 +29,12 @@ Building on these experiences, we will be offering a series of four virtual retr
     </div>
 </div>
 <center>
+    <h3>Registration details will be provided soon!</h3>
+    {/*
     <ul className="actions uniform">
         <li><a href="https://www.eventbrite.com/e/male-journeys-supporting-our-spirits-in-these-challenging-times-tickets-134914600201" className="button special">Register</a></li>
     </ul>
+     */}
 </center>
 </section>
 
