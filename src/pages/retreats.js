@@ -20,7 +20,7 @@ Building on these experiences, we will be offering a series of four virtual retr
         <br></br>        
         <br></br>       
         <br></br>
-        Our retreats will occur on Saturdays, 10:00 AM to 12:30 PM Pacific Time, on the following dates: January 30, February 27, March 27, April 17.
+        Our two hour retreats will occur on Saturdays, 10:00 AM to 12:00 PM Pacific Time, on the following dates: January 30, February 27, March 27, April 17.
         <br></br>
         <br></br>
         <span className="image fit"><img src={pic06} alt="" /></span>
@@ -30,11 +30,9 @@ Building on these experiences, we will be offering a series of four virtual retr
 </div>
 <center>
     <h3>Registration details will be provided soon!</h3>
-    {/*
     <ul className="actions uniform">
-        <li><a href="https://www.eventbrite.com/e/male-journeys-supporting-our-spirits-in-these-challenging-times-tickets-134914600201" className="button special">Register</a></li>
+        <li><a href="https://www.eventbrite.com/e/male-journeys-supporting-our-spirits-in-these-challenging-times-tickets-134914614243" className="button special">Register</a></li>
     </ul>
-     */}
 </center>
 </section>
 
