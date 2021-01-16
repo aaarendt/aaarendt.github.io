@@ -45,7 +45,7 @@ class Homepage extends React.Component {
                             </header>
                             <p>Jeff Creswell is a <a href="http://www.couragerenewal.org/">Center for Courage and Renewal<sup>&copy;</sup></a> facilitator mentored by activist and writer Parker Palmer. He is also an educational consultant.
                             </p>
-                            <p>Anthony Arendt <a href="http://www.couragerenewal.org/">Center for Courage and Renewal<sup>&copy;</sup></a> facilitator mentored by Jeff Creswell. He is also a research scientist at the University of Washington in Seattle. 
+                            <p>Anthony Arendt is a <a href="http://www.couragerenewal.org/">Center for Courage and Renewal<sup>&copy;</sup></a> facilitator mentored by Jeff Creswell. He is also a research scientist at the University of Washington in Seattle. 
                             </p>
                             <p>Aaron Bishop is an active outdoorsman and co-facilitator of several Courage and Renewal offerings. He works for Walmart as a Health and Wellness Director.
                             </p>
