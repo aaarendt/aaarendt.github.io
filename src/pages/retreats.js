@@ -10,7 +10,7 @@ export default () => (
         <header className="major">
             <h2>Retreat Offerings</h2>
         </header>
-        <h3>Male Journeys: Supporting our Sprits in these Challenging Times</h3>
+        <h3>Male Journeys: Supporting our Spirits in these Challenging Times</h3>
 Since the beginning of the pandemic we have been hosting <a href="../online">regular zoom calls</a> with men who have attended our previous retreats. We found that we were able to share a deep sense of connection despite our physical separation.
 
 Building on these experiences, we will be offering a series of four virtual retreats during early 2021, open to anyone.
