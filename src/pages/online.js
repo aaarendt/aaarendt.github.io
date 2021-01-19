@@ -11,7 +11,9 @@ export default () => (
             <header className="major">
             <h2>Online Communities</h2>
             </header>
-            <p>From March to December 2020 we hosted a series of virtual calls with men who had attended our previous retreats. In early 2021 we will be hosting a series of four monthly, longer format <a href="../retreats">virtual retreats</a> open to anyone.</p>
+            <p>From March to December 2020 we hosted a series of virtual calls with men who had attended our previous retreats. We invite you to view the poems from these sessions below.</p>
+                
+            <h3> Please visit our <a href="../retreats">virtual retreats page</a> to register for our longer format retreats during January to April, 2021.</h3>
         </center>
 </div>
 
@@ -20,11 +22,11 @@ export default () => (
 
 <section id="two" className="main style2">
 <div>
-    <center><h2>What can I expect on these calls?</h2>
+   {/* <center><h2>What can I expect on these calls?</h2>
     <p>We will begin each call with a reflection on the <a href={'/touchstones.pdf'} target="_blank">touchstones</a>.</p> 
     <p>We will invite everyone to introduce themselves, share a poem, and converse in small groups using Zoom breakout rooms.</p>
     </center>
-
+   */}
     <center>
         <p><h2>Collection of Poems from our Previous Calls</h2></p> 
         <p>Thursday 10 December 2020: "Man" (<a href={'/mens-zoom-call-poems-10Dec2020.pdf'} target="_blank">poems)</a>.</p>
