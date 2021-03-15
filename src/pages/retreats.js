@@ -11,7 +11,7 @@ export default () => (
             <h2>Retreat Offerings</h2>
         </header>
         <h3>Male Journeys: Supporting our Spirits in these Challenging Times</h3>
-        <p>Jeff and Anthony are hosting two hour long virtual retreats on Saturdays, 10:00 AM to 12:00 PM Pacific Time, on the following dates: February 27, March 27, April 17.</p>
+        <p>Jeff and Anthony are hosting two hour long virtual retreats on Saturdays, 10:00 AM to 12:00 PM Pacific Time, on the following dates: March 27, April 17.</p>
         <span className="image fit"><img src={pic06} alt="" /></span>
     </div>
     <div className="col-6">
@@ -25,7 +25,7 @@ export default () => (
         <p> During these retreats we offer a hospitable space for men of all ages to show up authentically and live wholeheartedly. We co-create a trustworthy circle in which we can listen to each other with courage and compassion as we find our way together in community. In virtual large group, small group and solitary settings we will invite you to rest, connect with your surroundings and contemplate the poetry, art and stories of wisdom traditions. We welcome anyone identifying as male, regardless of birth assignment. </p>
         <center>
     <ul className="actions uniform">
-        <li><a href="https://www.eventbrite.com/e/male-journeys-supporting-our-spirits-in-these-challenging-times-tickets-134914618255" className="button special">Register</a></li>
+        <li><a href="https://www.eventbrite.com/e/male-journeys-supporting-our-spirits-in-these-challenging-times-tickets-134914622267" className="button special">Register</a></li>
     </ul>
 </center>
         
